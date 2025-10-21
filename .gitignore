@@ -1,0 +1,5 @@
+.env
+testiterator.egg-info/
+__pycache__/
+.vscode
+factorial_with_comprehensive_tests_20251017_013733.py
